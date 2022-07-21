@@ -6,8 +6,8 @@
 <h2 align="center">Software Engineer</h2>
 <h3 align="center">You can connect with me via the links below👇</h3>
 <p align="center">
-<a href="https://linkedin.com/in/aysunkapusuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aysunkapusuz" height="30" width="40" /></a>
-<a href="https://instagram.com/aysunkapusuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aysunkapusuz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aysunkapusuz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aysunkapusuz" height="30" width="40" /></a>
+<a href="https://instagram.com/aysunkapusuz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aysunkapusuz" height="30" width="40" /></a>
 </p>  <br/> <hr><br/>
 
 <h3 align="center" ><b>Languages and Tools✅</b></h3> <br/>
