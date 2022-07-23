@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="700" height="500"  src="https://user-images.githubusercontent.com/101064345/180237519-67049260-7578-49d3-b8f5-89c620c36192.gif">
+<p align="center"><img  alt="Coding" width="700" height="500"  src="https://user-images.githubusercontent.com/101064345/180237519-67049260-7578-49d3-b8f5-89c620c36192.gif"> </p>
 
 <h1 align="center">Hi 👋, I'm Aysun!</h1>
 <h3 align="center">someone who is passionate about tech from USA</h3> <br/> <br/>
